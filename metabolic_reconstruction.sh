@@ -11,3 +11,6 @@ FILE=$WD/external-genomes.txt
 # estimate metabolism (KEGG) - complete = 0.75 (default)
 anvi-estimate-metabolism -e $FILE -O NOB \
  --matrix-format --include-metadata --include-zeros
+
+
+ #hello
